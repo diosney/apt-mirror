@@ -1,7 +1,7 @@
 #!/bin/sh -e
 
 ## anything in this file gets run AFTER the mirror has been run
-## put your custom post mirror operations in here ( like rsyncing the installer files and running clean.sh automaticly )
+## put your custom post mirror operations in here ( like rsyncing the installer files and running clean.sh automatically )
 
 ## Example of grabbing the extra translations and installer files from ubuntu ( note rsync needs to be installed 
 ## and in the path for this example to work correctly )
