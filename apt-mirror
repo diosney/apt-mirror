@@ -56,7 +56,7 @@ F</var/spool/apt-mirror/var>
 
 =head1 CONFIGURATION EXAMPLES
 
-The mirror.list configuration supports many options, the file is well commented explinging each option.
+The mirror.list configuration supports many options, the file is well commented explaining each option.
 here are some sample mirror configuration lines showing the various supported ways :
 
 Normal:
